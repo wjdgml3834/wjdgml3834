@@ -18,6 +18,6 @@
  <br>
  <h2>📚 Tech Blog</h2>
   
- <a href="https://codingclimber.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://codingclimber.tistory.com/"/></a>
+ <a href="https://codingclimber.tistory.com/"  target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://codingclimber.tistory.com/"/></a>
 </div>
 
